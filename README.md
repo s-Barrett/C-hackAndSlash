@@ -2,6 +2,9 @@
 
 This is a top-down hack-and-slash game developed in Unity. The player can engage enemies using a variety of attacks, including small and big attacks, and can teleport to strategically move around the battlefield. The player uses WASD for movement and the mouse for combat.
 
+## Project Status
+- Status: **Completed ✅**
+
 ## Controlls
 
 - **Light Attack (Left Mouse)**: Perform quick, low-damage attacks.
